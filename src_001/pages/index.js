@@ -1,0 +1,5 @@
+export * from './HomePage'
+export * from './LoginPage'
+export * from './UpdatePage'
+export * from './FullName'
+export * from './EmailPass'
