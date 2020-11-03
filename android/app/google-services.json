@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "696068718057",
+    "firebase_url": "https://first-project-18a4c.firebaseio.com",
+    "project_id": "first-project-18a4c",
+    "storage_bucket": "first-project-18a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696068718057:android:3c169a6d24bb0444d55f78",
+        "android_client_info": {
+          "package_name": "com.reactnativestudynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696068718057-93ckje2t8qbas34r5932kpmkaib3j456.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wqRDKKD0ZhFgF5mNP_QStuwiSEdrRxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696068718057-93ckje2t8qbas34r5932kpmkaib3j456.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
